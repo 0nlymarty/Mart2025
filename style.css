@@ -8,5 +8,15 @@ body{
 }
 style
 p{
-    background-color: black;
+  font-size: 18px;   
+  line-height: 1.6;    
+  max-width: 800px;    
+  white-space: normal; 
+  text-align: left;    
 }
+
+img { 
+  height: 350px;
+  float: right;
+  margin-left: 10px; /* spacing between the two */
+} 
