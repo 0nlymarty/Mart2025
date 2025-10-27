@@ -1,0 +1,5 @@
+# Normalize text files
+* text=auto
+
+# Keep HTML normalized to LF in the repo
+*.html text eol=lf
