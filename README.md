@@ -1,1 +1,1 @@
-This repository is just based on school work with git learning how it works and making some small pages, so we can work and experiance how it works and learn more about the commands and what git does and how usefull and helpful it will be in the future with out assignments.
+This repository is just based on school work with git learning how it works and making some small pages, so we can work and experiance how it works and learn more about the commands, and what git does and how usefull and helpful it will be in the future with our assignments.
